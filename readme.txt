@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 dev2 modified
 5 
 6
+7
